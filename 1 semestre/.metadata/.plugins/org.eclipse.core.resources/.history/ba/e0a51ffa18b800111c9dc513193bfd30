@@ -1,0 +1,19 @@
+package Sistema;
+
+import prjCineMatchCorreto.Classes.Filme;
+import prjCineMatchCorreto.Classes.Genero;
+import prjCineMatchCorreto.Classes.Usuario;
+
+public class Aplicacao {
+	public static void main(String[] args) {
+		
+		Genero genero = new Genero("Ação","Legal");
+		Filme filme = new Filme("Nárnia", 2005, 150, genero);
+		Filme filmeSegundo = new Filme("Rei Leão", 1994, 150, genero);
+		
+		Usuario usuario = new Usuario("Geraldo", "geraldo@senai.br");
+		
+		usuario.adicionarFilme(filme);
+		
+	}
+}

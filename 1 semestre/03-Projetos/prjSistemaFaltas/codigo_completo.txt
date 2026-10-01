@@ -1,0 +1,239 @@
+================================================================================
+PROJETO: prjSistemaFaltas
+================================================================================
+
+--------------------------------------------------------------------------------
+Arquivo: src/module-info.java
+--------------------------------------------------------------------------------
+/**
+ * 
+ */
+/**
+ * 
+ */
+module prjSistemaFaltas {
+}
+
+--------------------------------------------------------------------------------
+Arquivo: src/prjSistemaFaltas/classes/Aluno.java
+--------------------------------------------------------------------------------
+package prjSistemaFaltas.classes;
+
+public class Aluno {
+    // Atributos
+    private String nomeAluno;
+    private String ra;
+    private int aulasPresente;
+    private int nota;
+    private static int contador = 1050;
+    
+    
+    //bloco de Inicialização
+    
+    {
+    	ra = "RA" + contador;
+    	contador++;
+    }
+    
+    public String toString() {
+        return "Aluno{nomeAluno=" + nomeAluno
+                + ", ra=" + ra
+                + ", aulasPresente=" + aulasPresente
+                + ", nota=" + nota
+                + "}";
+        
+    } 
+
+    // Construtores
+    public Aluno() {}
+
+    public Aluno(String nomeAluno, int aulasPresente, int nota) {
+        this.nomeAluno = nomeAluno;
+        this.aulasPresente = aulasPresente;
+        this.nota = nota;
+    }
+    
+    //Getters & Setterss
+
+    public int getAulasPresente() {
+        return aulasPresente;
+    }
+
+    public void setAulasPresente(int aulasPresente) {
+        this.aulasPresente = aulasPresente;
+    }
+
+    public String getNomeAluno() {
+        return nomeAluno;
+    }
+
+    public void setNomeAluno(String nomeAluno) {
+        this.nomeAluno = nomeAluno;
+    }
+
+    public String getRa() {
+        return ra;
+    }
+
+    public int getNota() {
+        return nota;
+    }
+
+    public void setNota(int nota) {
+        this.nota = nota;
+    }
+}
+
+--------------------------------------------------------------------------------
+Arquivo: src/prjSistemaFaltas/classes/Materia.java
+--------------------------------------------------------------------------------
+package prjSistemaFaltas.classes;
+
+public class Materia {
+
+    // Atributos
+    private String nomeMateria;
+    private Professor professor;
+    private Aluno aluno;
+    private int totalAulas = 200;
+    private static final double FALTAR_MAXIMAS;
+    
+    static{
+    	FALTAR_MAXIMAS = 0.25;
+    }
+    
+    public String toString() {
+        return "Matéria{nomeMateria=" + nomeMateria
+        		+ ",professor=" + professor 
+        		+ ", alunos=" + aluno
+        		+ ", totalAulas=" + totalAulas + "}";
+    }
+
+    // Construtores
+    
+    public Materia() {
+
+    }
+
+    public Materia(String nomeMateria, Professor professor, Aluno aluno, int totalAulas) {
+        this.nomeMateria = nomeMateria;
+        this.professor = professor;
+        this.aluno = aluno;
+        this.totalAulas = totalAulas;
+    }
+
+    // Getters & Setters
+    
+    public String getNomeMateria() {
+        return nomeMateria;
+    }
+
+    public void setNomeMateria(String nomeMateria) {
+        this.nomeMateria = nomeMateria;
+    }
+    
+    public void setTotalAulas(int totalAulas) {
+    	this.totalAulas = totalAulas;
+    }
+
+    public int getTotalAulas() {
+        return totalAulas;
+    }
+
+	public static double getFaltarMaximas() {
+		return FALTAR_MAXIMAS;
+	}
+
+	public Aluno getAluno() {
+		return aluno;
+	}
+
+	public void setAluno(Aluno aluno) {
+		this.aluno = aluno;
+	}
+
+	public Professor getProfessor() {
+		return professor;
+	}
+
+	public void setProfessor(Professor professor) {
+		this.professor = professor;
+	}
+	
+	//Metodos
+	public void apresentar() {
+		System.out.println("A sua matéria é : " + nomeMateria);
+		System.out.println("Aulas totais : " + totalAulas);
+		System.out.println("Professor : " + professor.getNomeProfessor());
+		System.out.println("Aluno : " +  aluno.getAulasPresente());
+		System.out.println("Total de faltas " + (totalAulas - aluno.getAulasPresente()));
+		
+		
+	}
+
+}
+
+--------------------------------------------------------------------------------
+Arquivo: src/prjSistemaFaltas/classes/Professor.java
+--------------------------------------------------------------------------------
+package prjSistemaFaltas.classes;
+
+public class Professor {
+	// atributos
+
+	private String nomeProfessor;
+	private int nif;
+	private static int contador;
+
+	{
+		nif = +contador;
+		contador++;
+	}
+
+	// contratutores
+
+	public Professor(String nomeProfessor) {
+		this.nomeProfessor = nomeProfessor;
+	}
+
+	public static int getContador() {
+		return contador;
+	}
+
+	public int getNif() {
+		return nif;
+	}
+
+	public String getNomeProfessor() {
+		return nomeProfessor;
+	}
+
+	public void setNomeProfessor(String nomeProfessor) {
+		this.nomeProfessor = nomeProfessor;
+	}
+}
+
+--------------------------------------------------------------------------------
+Arquivo: src/prjSistemaFaltas/sistema/Aplicacao.java
+--------------------------------------------------------------------------------
+package prjSistemaFaltas.sistema;
+
+import prjSistemaFaltas.classes.Aluno;
+import prjSistemaFaltas.classes.Materia;
+import prjSistemaFaltas.classes.Professor;
+
+public class Aplicacao {
+	public static void main(String[] args) {
+		
+		Aluno aluno = new Aluno("Bernardo", 100, 80);
+		Professor professor = new Professor("Cleber");
+		Materia materia = new Materia("Física Quântica", professor, aluno, 150);
+		
+		System.out.println(materia);
+		
+		materia.apresentar();
+		
+		
+
+	}
+}

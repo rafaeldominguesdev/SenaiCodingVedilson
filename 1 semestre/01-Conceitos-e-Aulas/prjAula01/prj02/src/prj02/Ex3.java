@@ -1,0 +1,24 @@
+package prj02;
+
+import java.util.Scanner;
+
+public class Ex3 {
+	public static void main(String[] args) {
+		Scanner ler = new Scanner(System.in);
+		
+		
+		String nome, sobrenome, nomeCompleto;
+		
+		System.out.print("Digite seu nome: ");
+		nome = ler.next();
+		System.out.print("Digite seu sobrenome: ");
+		sobrenome = ler.next();
+		
+		nomeCompleto = nome + " " +sobrenome + ".";
+		
+		System.out.print("O seu nome completo é " + nomeCompleto);
+		
+		
+	}
+
+}

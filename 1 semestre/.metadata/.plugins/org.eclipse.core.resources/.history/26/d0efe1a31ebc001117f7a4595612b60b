@@ -1,0 +1,31 @@
+package br.com.senai.apprh.model;
+
+public enum ModeloTrabalho {
+	PRESENCIAL(0.0, "Tranalho 100% presencial"),
+	HIBRIDRO(300, "Trabalho híbrido com ajuda de custo de deslocamento"),
+	REMOTO(150, "Trabalho remoto com auxílio internet");
+	
+	private double auxilio;
+	private String descricao;
+
+	
+	ModeloTrabalho(double auxilio, String descricao) {
+		this.setAuxilio(auxilio);
+		this.setDescricao(descricao);		
+	}
+
+	public double getAuxilio() {return auxilio;}
+
+	public void setAuxilio(double auxilio) {this.auxilio = auxilio;}
+
+	public String getDescricao() {return descricao;}
+
+	public void setDescricao(String descricao) {this.descricao = descricao;}
+	
+	
+	
+	
+	
+	
+	
+}

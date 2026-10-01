@@ -1,0 +1,715 @@
+2026-07-28 16:15:11.596: [INFO] OnDoneLoading sync enabled: 0
+2026-07-28 16:43:41.665: [INFO] OnDoneLoading sync enabled: 0
+2026-07-28 16:45:23.489: [INFO] OnDoneLoading sync enabled: 0
+2026-07-28 16:49:07.386: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 11:13:30.959: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 12:16:21.927: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 12:37:28.417: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 12:38:00.820: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 13:14:13.357: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 13:15:01.816: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 13:15:23.012: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 13:16:43.485: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 15:04:25.449: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 15:43:25.878: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 18:37:29.962: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 18:40:24.112: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 18:42:40.383: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 10:16:49.342: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 10:16:49.342: [INFO] Profiles total count: 1
+2026-08-06 10:16:49.343: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-28T16:45:23.694Z
+2026-08-06 10:16:49.343: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 10:16:49.343: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-07-28T16:45:23.694Z
+2026-08-06 10:16:49.343: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 10:16:49.343: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 10:16:49.343: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 10:16:49.343: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 14:55:29.436: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 14:55:35.908: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 14:55:35.908: [INFO] Profiles total count: 1
+2026-08-06 14:55:35.908: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T10:53:15.520Z
+2026-08-06 14:55:35.908: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 14:55:35.908: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T10:53:15.520Z
+2026-08-06 14:55:35.908: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 14:55:35.908: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 14:55:35.908: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 14:55:35.908: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:23:32.099: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:23:42.951: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:23:42.951: [INFO] Profiles total count: 1
+2026-08-06 15:23:42.951: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T10:53:15.520Z
+2026-08-06 15:23:42.951: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:23:42.951: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T10:53:15.520Z
+2026-08-06 15:23:42.951: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 15:23:42.951: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 15:23:42.951: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 15:23:42.951: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:24:19.231: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:25:18.926: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:25:18.926: [INFO] Profiles total count: 1
+2026-08-06 15:25:18.927: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:24:12.705Z
+2026-08-06 15:25:18.927: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:25:18.927: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:24:12.705Z
+2026-08-06 15:25:18.927: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 15:25:18.927: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 15:25:18.927: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 15:25:18.927: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:26:15.891: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:27:20.303: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:27:20.303: [INFO] Profiles total count: 1
+2026-08-06 15:27:20.304: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:24:12.705Z
+2026-08-06 15:27:20.304: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:27:20.304: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:24:12.705Z
+2026-08-06 15:27:20.304: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 15:27:20.304: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 15:27:20.304: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 15:27:20.304: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:29:13.561: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:31:52.693: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:31:52.693: [INFO] Profiles total count: 1
+2026-08-06 15:31:52.693: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:24:12.705Z
+2026-08-06 15:31:52.693: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-06 15:31:52.693: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:24:12.705Z
+2026-08-06 15:31:52.693: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 15:31:52.693: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 15:31:52.693: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 15:31:52.693: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 15:32:14.001: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:04:01.648: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:04:01.648: [INFO] Profiles total count: 1
+2026-08-11 16:04:01.649: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:31:59.310Z
+2026-08-11 16:04:01.649: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:04:01.649: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-06T15:31:59.310Z
+2026-08-11 16:04:01.649: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:04:01.649: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:04:01.649: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:04:01.649: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:04:02.687: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:19:05.541: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:19:05.541: [INFO] Profiles total count: 1
+2026-08-11 16:19:05.542: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:19:05.542: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:19:05.542: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:19:05.542: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:19:05.542: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:19:05.542: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:19:05.542: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:20:27.199: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:29:17.554: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:29:17.554: [INFO] Profiles total count: 1
+2026-08-11 16:29:17.554: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:29:17.554: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:29:17.554: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:29:17.554: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:29:17.554: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:29:17.554: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:29:17.554: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:29:18.601: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:38:02.059: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:38:02.059: [INFO] Profiles total count: 1
+2026-08-11 16:38:02.059: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:38:02.059: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:38:02.059: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:38:02.059: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:38:02.059: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:38:02.059: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:38:02.059: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:38:20.745: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:38:24.392: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:38:24.392: [INFO] Profiles total count: 1
+2026-08-11 16:38:24.392: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:38:24.392: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:38:24.392: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:38:24.392: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:38:24.392: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:38:24.392: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:38:24.392: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:38:29.808: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:38:35.899: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:38:35.899: [INFO] Profiles total count: 1
+2026-08-11 16:38:35.899: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:38:35.899: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:38:35.899: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:38:35.899: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:38:35.899: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:38:35.899: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:38:35.899: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:39:42.391: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:39:59.240: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:39:59.240: [INFO] Profiles total count: 1
+2026-08-11 16:39:59.241: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:39:59.241: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:39:59.241: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:39:59.241: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:39:59.241: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:39:59.241: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:39:59.241: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:40:13.819: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:40:40.304: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:40:40.304: [INFO] Profiles total count: 1
+2026-08-11 16:40:40.304: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:40:40.304: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:40:40.304: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:40:40.304: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:40:40.304: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:40:40.304: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:40:40.304: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:40:54.928: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:42:06.850: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:42:06.850: [INFO] Profiles total count: 1
+2026-08-11 16:42:06.850: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:42:06.850: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:42:06.850: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:42:06.850: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:42:06.850: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:42:06.851: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:42:06.851: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:46:24.758: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:46:51.089: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:46:51.089: [INFO] Profiles total count: 1
+2026-08-11 16:46:51.089: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:46:51.089: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:46:51.089: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:46:51.089: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:46:51.089: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:46:51.089: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:46:51.089: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:49:28.550: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:50:17.339: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:50:17.339: [INFO] Profiles total count: 1
+2026-08-11 16:50:17.339: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:50:17.339: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:50:17.339: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:11:48.528Z
+2026-08-11 16:50:17.339: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:50:17.339: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:50:17.339: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:50:17.339: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:50:21.803: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:50:33.212: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:50:33.212: [INFO] Profiles total count: 1
+2026-08-11 16:50:33.213: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-11 16:50:33.213: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:50:33.213: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-11 16:50:33.213: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:50:33.213: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:50:33.213: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:50:33.213: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:52:26.382: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 16:54:11.240: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:54:11.240: [INFO] Profiles total count: 1
+2026-08-11 16:54:11.240: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-11 16:54:11.240: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 16:54:11.240: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-11 16:54:11.240: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 16:54:11.240: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 16:54:11.240: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 16:54:11.240: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 10:13:15.327: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 10:13:15.327: [INFO] Profiles total count: 1
+2026-08-13 10:13:15.327: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 10:13:15.327: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 10:13:15.327: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 10:13:15.327: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 10:13:15.327: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 10:13:15.327: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 10:13:15.327: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 10:57:16.795: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 10:59:20.886: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 10:59:20.886: [INFO] Profiles total count: 1
+2026-08-13 10:59:20.886: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 10:59:20.886: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 10:59:20.886: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 10:59:20.886: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 10:59:20.886: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 10:59:20.886: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 10:59:20.886: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:16:50.114: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:51:02.139: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:51:02.139: [INFO] Profiles total count: 1
+2026-08-13 11:51:02.139: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 11:51:02.139: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:51:02.139: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 11:51:02.139: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 11:51:02.139: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 11:51:02.139: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 11:51:02.139: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:53:16.550: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:53:20.440: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:53:20.440: [INFO] Profiles total count: 1
+2026-08-13 11:53:20.440: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 11:53:20.440: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:53:20.440: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T16:50:19.122Z
+2026-08-13 11:53:20.440: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 11:53:20.440: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 11:53:20.440: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 11:53:20.440: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:55:33.949: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:55:41.742: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:55:41.742: [INFO] Profiles total count: 1
+2026-08-13 11:55:41.743: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 11:55:41.743: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:55:41.743: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 11:55:41.743: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 11:55:41.743: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 11:55:41.743: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 11:55:41.743: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:56:00.158: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:56:58.359: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:56:58.359: [INFO] Profiles total count: 1
+2026-08-13 11:56:58.360: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 11:56:58.360: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 11:56:58.360: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 11:56:58.360: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 11:56:58.360: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 11:56:58.360: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 11:56:58.360: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 12:57:20.102: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 12:58:43.366: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 12:58:43.366: [INFO] Profiles total count: 1
+2026-08-13 12:58:43.367: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 12:58:43.367: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 12:58:43.367: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 12:58:43.367: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 12:58:43.367: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 12:58:43.367: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 12:58:43.367: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 13:01:31.352: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 13:01:47.233: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 13:01:47.233: [INFO] Profiles total count: 1
+2026-08-13 13:01:47.234: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 13:01:47.234: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 13:01:47.234: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-13 13:01:47.234: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 13:01:47.234: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 13:01:47.234: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 13:01:47.234: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 15:56:00.643: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 10:22:52.283: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 10:22:52.283: [INFO] Profiles total count: 1
+2026-08-18 10:22:52.284: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 10:22:52.284: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 10:22:52.284: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 10:22:52.284: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 10:22:52.284: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 10:22:52.284: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 10:22:52.284: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 10:23:23.650: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 10:27:06.479: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 10:27:06.479: [INFO] Profiles total count: 1
+2026-08-18 10:27:06.479: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 10:27:06.479: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 10:27:06.479: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 10:27:06.479: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 10:27:06.479: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 10:27:06.479: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 10:27:06.479: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 11:10:04.580: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 11:12:06.639: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 11:12:06.639: [INFO] Profiles total count: 1
+2026-08-18 11:12:06.640: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 11:12:06.640: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 11:12:06.640: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 11:12:06.640: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 11:12:06.640: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 11:12:06.640: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 11:12:06.640: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 11:13:15.868: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 11:13:56.283: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 11:13:56.283: [INFO] Profiles total count: 1
+2026-08-18 11:13:56.283: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 11:13:56.283: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 11:13:56.283: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 11:13:56.283: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 11:13:56.283: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 11:13:56.283: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 11:13:56.283: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 11:37:22.174: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 11:38:52.196: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 11:38:52.196: [INFO] Profiles total count: 1
+2026-08-18 11:38:52.197: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 11:38:52.197: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 11:38:52.197: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-18 11:38:52.197: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 11:38:52.197: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 11:38:52.197: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 11:38:52.197: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 15:01:19.704: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 11:32:56.629: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 11:32:56.629: [INFO] Profiles total count: 1
+2026-08-20 11:32:56.630: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-20 11:32:56.630: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 11:32:56.630: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-20 11:32:56.630: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 11:32:56.630: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 11:32:56.630: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 11:32:56.630: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 11:33:49.088: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 11:35:20.213: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 11:35:20.213: [INFO] Profiles total count: 1
+2026-08-20 11:35:20.213: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-20 11:35:20.213: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 11:35:20.213: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-20 11:35:20.213: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 11:35:20.213: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 11:35:20.213: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 11:35:20.214: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 11:45:39.735: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 12:04:14.962: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 12:04:14.962: [INFO] Profiles total count: 1
+2026-08-20 12:04:14.962: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-20 12:04:14.962: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 12:04:14.962: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T11:54:41.755Z
+2026-08-20 12:04:14.962: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 12:04:14.962: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 12:04:14.962: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 12:04:14.962: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 16:00:58.857: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 14:57:40.525: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 14:57:40.525: [INFO] Profiles total count: 1
+2026-08-25 14:57:40.525: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 14:57:40.525: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 14:57:40.525: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 14:57:40.525: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 14:57:40.525: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 14:57:40.525: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 14:57:40.525: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 15:14:28.747: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 15:18:11.000: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 15:18:11.000: [INFO] Profiles total count: 1
+2026-08-25 15:18:11.001: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 15:18:11.001: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 15:18:11.001: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 15:18:11.001: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 15:18:11.001: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 15:18:11.001: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 15:18:11.001: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 15:18:27.999: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 15:21:01.828: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 15:21:01.828: [INFO] Profiles total count: 1
+2026-08-25 15:21:01.828: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 15:21:01.828: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 15:21:01.828: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 15:21:01.828: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 15:21:01.828: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 15:21:01.828: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 15:21:01.828: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 15:21:14.044: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 15:22:18.354: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 15:22:18.354: [INFO] Profiles total count: 1
+2026-08-25 15:22:18.355: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 15:22:18.355: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 15:22:18.355: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 15:22:18.355: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 15:22:18.355: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 15:22:18.355: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 15:22:18.355: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:38:41.865: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:55:33.742: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:55:33.742: [INFO] Profiles total count: 1
+2026-08-25 17:55:33.742: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 17:55:33.742: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:55:33.742: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 17:55:33.742: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 17:55:33.742: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 17:55:33.742: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 17:55:33.742: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:55:45.183: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:55:52.111: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:55:52.111: [INFO] Profiles total count: 1
+2026-08-25 17:55:52.112: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 17:55:52.112: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:55:52.112: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 17:55:52.112: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 17:55:52.112: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 17:55:52.112: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 17:55:52.112: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:56:02.945: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:56:21.529: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:56:21.529: [INFO] Profiles total count: 1
+2026-08-25 17:56:21.529: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 17:56:21.529: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:56:21.529: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T13:47:35.048Z
+2026-08-25 17:56:21.529: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 17:56:21.529: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 17:56:21.529: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 17:56:21.529: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:57:22.896: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 17:58:10.557: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:58:10.557: [INFO] Profiles total count: 1
+2026-08-25 17:58:10.557: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-08-25 17:58:10.557: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 17:58:10.557: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-08-25 17:58:10.557: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 17:58:10.557: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 17:58:10.557: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 17:58:10.557: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 18:23:27.356: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 18:25:15.525: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 18:25:15.525: [INFO] Profiles total count: 1
+2026-08-25 18:25:15.525: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-08-25 18:25:15.525: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-25 18:25:15.525: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-08-25 18:25:15.525: [INFO] OnDoneLoading sync enabled: 0
+2026-08-25 18:25:15.525: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-25 18:25:15.525: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-25 18:25:15.525: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-25 18:45:22.600: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-08 18:40:54.531: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-08 18:40:54.531: [INFO] Profiles total count: 1
+2026-09-08 18:40:54.531: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-08 18:40:54.531: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-08 18:40:54.531: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-08 18:40:54.531: [INFO] OnDoneLoading sync enabled: 0
+2026-09-08 18:40:54.531: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-08 18:40:54.531: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-08 18:40:54.531: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-08 18:41:08.682: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 10:45:07.516: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 10:45:07.516: [INFO] Profiles total count: 1
+2026-09-22 10:45:07.517: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 10:45:07.517: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 10:45:07.517: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 10:45:07.517: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 10:45:07.517: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 10:45:07.517: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 10:45:07.517: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 10:51:16.273: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:07:08.642: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:07:08.642: [INFO] Profiles total count: 1
+2026-09-22 11:07:08.643: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:07:08.643: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:07:08.643: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:07:08.643: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 11:07:08.643: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 11:07:08.643: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 11:07:08.643: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:14:18.200: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:36:53.629: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:36:53.629: [INFO] Profiles total count: 1
+2026-09-22 11:36:53.629: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:36:53.629: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:36:53.629: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:36:53.629: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 11:36:53.629: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 11:36:53.629: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 11:36:53.629: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:36:57.402: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:39:24.657: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:39:24.657: [INFO] Profiles total count: 1
+2026-09-22 11:39:24.658: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:39:24.658: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:39:24.658: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:39:24.658: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 11:39:24.658: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 11:39:24.658: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 11:39:24.658: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:41:08.040: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:41:25.589: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:41:25.589: [INFO] Profiles total count: 1
+2026-09-22 11:41:25.589: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:41:25.589: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 11:41:25.589: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 11:41:25.589: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 11:41:25.589: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 11:41:25.589: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 11:41:25.589: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 11:41:53.572: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:10:34.017: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:10:34.017: [INFO] Profiles total count: 1
+2026-09-22 12:10:34.017: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:10:34.017: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:10:34.017: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:10:34.017: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 12:10:34.017: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 12:10:34.017: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 12:10:34.017: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:10:58.747: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:11:08.028: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:11:08.028: [INFO] Profiles total count: 1
+2026-09-22 12:11:08.028: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:11:08.028: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:11:08.028: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:11:08.028: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 12:11:08.028: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 12:11:08.028: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 12:11:08.028: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:18:43.985: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:25:20.251: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:25:20.251: [INFO] Profiles total count: 1
+2026-09-22 12:25:20.251: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:25:20.251: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:25:20.252: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:25:20.252: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 12:25:20.252: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 12:25:20.252: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 12:25:20.252: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:27:37.116: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:35:28.942: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:35:28.942: [INFO] Profiles total count: 1
+2026-09-22 12:35:28.943: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:35:28.943: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:35:28.943: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:35:28.943: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 12:35:28.943: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 12:35:28.943: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 12:35:28.943: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:39:31.780: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:44:11.422: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:44:11.422: [INFO] Profiles total count: 1
+2026-09-22 12:44:11.422: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:44:11.422: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:44:11.422: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 12:44:11.422: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 12:44:11.422: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 12:44:11.422: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 12:44:11.422: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:59:15.102: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:06:34.738: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:06:34.738: [INFO] Profiles total count: 1
+2026-09-22 13:06:34.739: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:06:34.739: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:06:34.739: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:06:34.739: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 13:06:34.739: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 13:06:34.739: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 13:06:34.739: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:06:38.448: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:07:23.561: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:07:23.561: [INFO] Profiles total count: 1
+2026-09-22 13:07:23.561: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:07:23.561: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:07:23.561: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:07:23.561: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 13:07:23.561: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 13:07:23.561: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 13:07:23.561: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:08:04.804: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:11:56.671: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:11:56.671: [INFO] Profiles total count: 1
+2026-09-22 13:11:56.671: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:11:56.671: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:11:56.671: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:11:56.671: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 13:11:56.671: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 13:11:56.671: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 13:11:56.671: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:13:12.866: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:20:09.566: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:20:09.566: [INFO] Profiles total count: 1
+2026-09-22 13:20:09.566: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:20:09.566: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:20:09.566: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:20:09.566: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 13:20:09.566: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 13:20:09.566: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 13:20:09.566: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:35:14.772: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:36:10.406: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:36:10.406: [INFO] Profiles total count: 1
+2026-09-22 13:36:10.406: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:36:10.406: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:36:10.406: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:36:10.406: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 13:36:10.406: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 13:36:10.406: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 13:36:10.406: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:36:23.336: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:36:28.041: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:36:28.041: [INFO] Profiles total count: 1
+2026-09-22 13:36:28.042: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:36:28.042: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:36:28.042: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:36:28.042: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 13:36:28.042: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 13:36:28.042: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 13:36:28.042: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:36:46.875: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 13:41:46.728: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:41:46.728: [INFO] Profiles total count: 1
+2026-09-22 13:41:46.729: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:41:46.729: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 13:41:46.729: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 13:41:46.729: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 13:41:46.729: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 13:41:46.729: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 13:41:46.729: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 15:46:10.391: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 15:54:01.042: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 15:54:01.042: [INFO] Profiles total count: 1
+2026-09-22 15:54:01.042: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 15:54:01.042: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 15:54:01.042: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 15:54:01.043: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 15:54:01.043: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 15:54:01.043: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 15:54:01.043: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 15:54:07.926: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 16:11:43.927: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 16:11:43.927: [INFO] Profiles total count: 1
+2026-09-22 16:11:43.927: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 16:11:43.927: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 16:11:43.927: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 16:11:43.927: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 16:11:43.927: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 16:11:43.927: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 16:11:43.927: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 16:11:44.107: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 16:12:03.354: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 16:12:03.354: [INFO] Profiles total count: 1
+2026-09-22 16:12:03.355: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 16:12:03.355: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 16:12:03.355: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-22 16:12:03.355: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 16:12:03.355: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 16:12:03.355: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 16:12:03.355: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 18:48:29.698: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 10:44:20.747: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 10:44:20.747: [INFO] Profiles total count: 1
+2026-09-24 10:44:20.747: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-24 10:44:20.747: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 10:44:20.747: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-24 10:44:20.747: [INFO] OnDoneLoading sync enabled: 0
+2026-09-24 10:44:20.747: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-24 10:44:20.747: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-24 10:44:20.747: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 10:44:30.917: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 11:44:22.115: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 11:44:22.115: [INFO] Profiles total count: 1
+2026-09-24 11:44:22.115: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-24 11:44:22.115: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 11:44:22.115: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-24 11:44:22.115: [INFO] OnDoneLoading sync enabled: 0
+2026-09-24 11:44:22.115: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-24 11:44:22.115: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-24 11:44:22.115: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 11:55:58.900: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 11:56:15.016: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 11:56:15.017: [INFO] Profiles total count: 1
+2026-09-24 11:56:15.017: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-24 11:56:15.017: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 11:56:15.017: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-24 11:56:15.017: [INFO] OnDoneLoading sync enabled: 0
+2026-09-24 11:56:15.017: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-24 11:56:15.017: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-24 11:56:15.017: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 16:16:17.019: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-29 15:52:00.245: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-29 15:52:00.245: [INFO] Profiles total count: 1
+2026-09-29 15:52:00.246: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-29 15:52:00.246: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-29 15:52:00.246: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-29 15:52:00.246: [INFO] OnDoneLoading sync enabled: 0
+2026-09-29 15:52:00.246: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-29 15:52:00.246: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-29 15:52:00.246: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-29 15:57:22.930: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-29 15:57:57.277: [INFO] CurrentProfilePath: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-29 15:57:57.277: [INFO] Profiles total count: 1
+2026-09-29 15:57:57.277: [INFO] Profile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-29 15:57:57.277: [INFO] LastUsedProfileDir: C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-29 15:57:57.277: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Rafael Domingues\Documents\LOPAL\Java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-25T17:56:23.823Z
+2026-09-29 15:57:57.277: [INFO] OnDoneLoading sync enabled: 0
+2026-09-29 15:57:57.277: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-29 15:57:57.277: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-29 15:57:57.277: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

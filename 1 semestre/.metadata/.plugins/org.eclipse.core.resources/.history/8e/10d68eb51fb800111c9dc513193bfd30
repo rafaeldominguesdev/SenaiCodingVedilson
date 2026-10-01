@@ -1,0 +1,69 @@
+package Sistema;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import prjCineMatchCorreto.Classes.Filme;
+import prjCineMatchCorreto.Classes.Genero;
+import prjCineMatchCorreto.Classes.Usuario;
+
+public class Aplicacao {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		
+		System.out.println("Informe seu nome : ");
+		String nome = s.nextLine();
+		
+		System.out.println("Informe seu email: ");
+		String email = s.nextLine();
+		
+		Usuario usuario = new Usuario(nome, email);
+		
+		List<Genero> listaGeneros = new ArrayList<>();
+		
+		int opcao = -1;
+		
+		while (opcao !=0 ) {
+			System.out.println("      CINEMATCH");
+			System.out.println("-----------------------");
+			System.out.println("1. Adicionar filme");
+			System.out.println("2. Excluir filme");
+			System.out.println("3. Listar filme");
+			System.out.println("0. Sair");
+			System.out.println("-----------------------");
+			System.out.println("Escolha a opção: ");
+			opcao = s.nextInt();
+			s.nextLine();
+			
+			switch(opcao) {
+			case 1 :
+				break;
+			case 2 :
+				List<Filme> filme = usuario.getCatalogo();
+				for (int i = 0; i < filme.size(); i++) {
+					System.out.println(i + " - " + filme.get(i).getTitulo());
+					
+				}
+				
+				System.out.println("Informe o número do filme que deseja excluir: ");
+				int escolha = s.nextInt();
+				s.nextLine();
+				
+				break;
+			case 3 :
+				System.out.println("\n-----Catálogo de Filmes-----");
+				System.out.println(usuario.toString());
+				break;
+			case 0 :
+				System.out.println("Sistem encerrado!");
+				break;
+			default : 
+				System.out.println("Opção inválida!\n");
+			}
+			
+		}
+		
+		
+	}
+}

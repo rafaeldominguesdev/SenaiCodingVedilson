@@ -1,0 +1,71 @@
+package Sistema;
+
+import java.util.Scanner;
+
+import prjListaLivro.Classes.Livro;
+import prjListaLivro.Classes.Usuario;
+
+public class aplicacao {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		
+		System.out.println("Sistema de Livros Favoritos");
+		System.out.println("Digite seu nome : ");
+		String nomeUsuario = s.nextLine();
+		
+		System.out.println("Digite seu e-mail : ");
+		String email = s.nextLine();
+		
+		Usuario usuario = new Usuario(nomeUsuario, email);
+		
+		int opcao = 0;
+		
+		while(opcao !=4) {
+			System.out.println("--------------------------------");
+			System.out.println("------------- MENU -------------");
+			System.out.println("1. Adicionar livro aos favoritos");
+			System.out.println("2. Ver lista de favoritos ");
+			System.out.println("3. Remover Livro dos favoritos ");
+			System.out.println("4. Sair");
+			System.out.println("Escolha uma opcão: ");
+			opcao = s.nextLine();
+			
+			
+			switch(opcao) {
+			case 1 :
+				System.out.println("\nTítulo do livro: ");
+				String tituloLivro = s.nextLine();
+				
+				System.out.println("Autor: ");
+				String autor = s.nextLine();
+				
+				System.out.println("Ano publicação: ");
+				int ano = s.nextInt();
+				
+				Livro novoLivro = new Livro(tituloLivro, autor, ano);
+				
+				usuario.favoritarLivro(novoLivro);
+				break;
+			case 2 :
+				usuario.exibirFavoritos();
+				break;
+			case 3 :
+				System.out.println("\nDigite o título do livro a remover: ");
+				String tituloRemover = s.nextLine();
+				
+				usuario.desfavoritarLivro(tituloRemover);
+				break;
+			case 4 :
+				System.out.println("\nSistema encerrado.");
+			default : 
+				System.out.println("Opção inválida!");
+			
+			
+			
+			
+			}
+		}
+		
+		s.close();
+	}
+}   

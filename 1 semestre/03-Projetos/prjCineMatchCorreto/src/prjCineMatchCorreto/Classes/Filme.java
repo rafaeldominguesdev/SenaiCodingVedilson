@@ -1,0 +1,67 @@
+package prjCineMatchCorreto.Classes;
+
+public class Filme {
+	//Atributos
+	private String titulo;
+	private int  anoLancamento;
+	private int duracaoMinutos;
+	private Genero genero;
+	
+	//Construtors
+	
+	public Filme() {}
+	
+	public Filme(String titulo, int anoLancamento, int duracaoMinutos, Genero genero) {
+		this.titulo = titulo;
+		this.anoLancamento = anoLancamento;
+		this.duracaoMinutos = duracaoMinutos;
+		this.genero = genero;
+	}
+	
+	//Getters & Setters
+
+	public String getTitulo() {
+		return titulo;
+	}
+
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
+	}
+
+	public int getAnoLancamento() {
+		return anoLancamento;
+	}
+
+	public void setAnoLancamento(int anoLancamento) {
+		this.anoLancamento = anoLancamento;
+	}
+
+	public int getDuracaoMinutos() {
+		return duracaoMinutos;
+	}
+
+	public void setDuracaoMinutos(int duracaoMinutos) {
+		this.duracaoMinutos = duracaoMinutos;
+	}
+
+	public Genero getGenero() {
+		return genero;
+	}
+
+	public void setGenero(Genero genero) {
+		this.genero = genero;
+	}
+	
+	@Override
+	public String toString() {
+		return "}\n" +
+				"	\"titulo\": \"" + titulo + "\",\n" +
+				"	\"anoLancamento\": " +anoLancamento + ",\n" +
+				"	\"duracaoMinutos\": " + duracaoMinutos + ",\n" + 
+				"	\"genero\":"  + genero.toString() + "\n" +
+				"}";
+		
+	}
+	
+	
+}

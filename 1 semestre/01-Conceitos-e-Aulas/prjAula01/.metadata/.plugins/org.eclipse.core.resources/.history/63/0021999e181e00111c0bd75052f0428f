@@ -1,0 +1,9 @@
+package prj02;
+
+public class Ex1 {
+	public static void main(String[] args) {
+		System.out.print("Professor: ");
+		System.out.print("Vedilson do Prado dos Santos ");
+	}
+
+}

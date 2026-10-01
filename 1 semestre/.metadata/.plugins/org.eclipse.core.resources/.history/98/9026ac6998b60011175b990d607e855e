@@ -1,0 +1,9 @@
+package Sistema;
+
+import prjListaLivro.Classes.Livro;
+
+public class aplicacao {
+	Livro l1 = new Livro("O Pequeno príncipe", "Antonie", 1943 );
+	Livro l2 = new Livro("Duna", "Frank Hebert");
+	Livro l3 = new Livro("Duna1", "Frank Hebert2");
+

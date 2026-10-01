@@ -1,0 +1,19 @@
+package prj02;
+
+import java.util.Scanner;
+
+public class Ex4 {
+	public static void main(String[] args) {
+		Scanner ler = new Scanner(System.in);
+		
+		double numero; //Declaração da variável numero do tipo decimal
+		
+		System.out.print("Digite um numero decimal: ");
+		numero = ler.nextDouble();
+		
+		System.out.printf("Número formatado: %.2f", numero);
+		
+		ler.close();
+		
+	}
+}

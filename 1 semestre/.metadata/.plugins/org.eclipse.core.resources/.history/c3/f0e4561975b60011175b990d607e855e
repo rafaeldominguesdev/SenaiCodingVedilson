@@ -1,0 +1,19 @@
+package prjLivrariaVetor;
+ class Livros {
+	public static void main(String[] args) {	
+	int [] idade = new int[350];
+
+	
+	for(int i = 0; i < 350; i++) {
+		
+		int batata = 0;
+		idade[1] = batata +2;
+		System.out.println(idade[i]);
+		
+	}
+	
+	
+ }
+	
+}
+

@@ -1,0 +1,14 @@
+package Sistema;
+
+import prjCineMatchCorreto.Classes.Filme;
+import prjCineMatchCorreto.Classes.Genero;
+
+public class Aplicacao {
+	public static void main(String[] args) {
+		
+		Genero genero = new Genero("Ação","Legal");
+		Filme filme = new Filme("Nárnia", 2005, 150, genero);
+		
+		System.out.println(filme.toString());
+	}
+}

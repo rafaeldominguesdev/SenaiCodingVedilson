@@ -1,0 +1,9 @@
+package br.com.senai.apprh.controller;
+
+public class SistemaRH {
+
+	public static void main(String[] args) {
+
+	}
+
+}

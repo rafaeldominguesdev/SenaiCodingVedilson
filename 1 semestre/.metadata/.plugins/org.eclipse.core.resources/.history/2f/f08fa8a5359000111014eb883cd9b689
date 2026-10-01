@@ -1,0 +1,36 @@
+package Classes;
+
+public class Classes {
+	
+	//atributos
+	
+	private int soma;
+	private int subtracao;
+	private int divisao;
+	private int multiplicacao;
+	
+	//Construtores
+	public calculo() {
+		
+	}
+
+	public int getMultiplicacao() {
+		return multiplicacao;
+	}
+
+	public void setMultiplicacao(int multiplicacao) {
+		this.multiplicacao = multiplicacao;
+	}
+	
+	
+	
+	//Getter Setters
+	
+	
+	
+	
+	//Metodos
+	
+	
+
+}

@@ -1,0 +1,60 @@
+package Classes;
+
+public class Classes {
+	
+	//atributos
+	
+	private int soma;
+	private int subtracao;
+	private int divisao;
+	private int multiplicacao;
+	
+	//Construtores
+	public calculo() {
+		
+	}
+
+	public int getMultiplicacao() {
+		return multiplicacao;
+	}
+
+	public void setMultiplicacao(int multiplicacao) {
+		this.multiplicacao = multiplicacao;
+	}
+
+	public int getDivisao() {
+		return divisao;
+	}
+
+	public void setDivisao(int divisao) {
+		this.divisao = divisao;
+	}
+
+	public int getSubtracao() {
+		return subtracao;
+	}
+
+	public void setSubtracao(int subtracao) {
+		this.subtracao = subtracao;
+	}
+
+	public int getSoma() {
+		return soma;
+	}
+
+	public void setSoma(int soma) {
+		this.soma = soma;
+	}
+	
+	
+	
+	//Getter Setters
+	
+	
+	
+	
+	//Metodos
+	
+	
+
+}

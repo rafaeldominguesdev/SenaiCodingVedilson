@@ -1,0 +1,81 @@
+package prjCineMatchCorreto.Classes;
+
+import java.util.List;
+import java.util.Scanner;
+
+public class Servico {
+	
+	public void exibirMenu() {
+		System.out.println("      CINEMATCH");
+		System.out.println("=======================");
+		System.out.println("1. Adicionar filme");
+		System.out.println("2. Excluir filme");
+		System.out.println("3. Listar filme");
+		System.out.println("0. Sair");
+		System.out.println("========================");
+		System.out.println("Escolha a opção: ");
+	}
+	
+	public Genero buscarGeneroPorNome(List<Genero> generos, String nome) {
+		for(int i = 0; i < generos.size(); i++) {
+			
+			Genero g = generos.get(i);
+			
+			if (g.getNome().equals(nome)) {
+				return g;
+				}
+			}
+			
+		return null;
+
+		
+	}
+	
+	public Genero listarESelecinarGenero(List<Genero> listaGeneros, Scanner s) {
+		
+		System.out.println("\"---------- Menu de Gêneros   ----------\"");
+		
+		for (int i = 0; i < listaGeneros.size(); i++ ) {
+			System.out.println("- " + listaGeneros.get(i).getNome() + " (" + listaGeneros.get(i).getDescricao() + ")");
+			
+		}
+		
+		System.out.println("\nDigite o nome do gênero desejado: ");
+		String nomeEscolhido = s.nextLine();
+		
+		Genero generoEscolhido = buscarGeneroPorNome(listaGeneros, nomeEscolhido);
+		
+		if (generoEscolhido != null) {
+			return generoEscolhido;
+		}
+		
+		System.out.println("Gênero não encontrado!");
+		return null;
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	public Genero criarNovoGenero(List<Genero> listaGenero, Scanner s) {
+		
+		System.out.println("\"---------- Cadastro de Gênero  ----------\"");
+		System.out.println("Nome do gênero: ");
+		String nomeNovoGenero = s.nextLine();
+		
+		System.out.println("Descrição do gênero: ");
+		String descricaoNovoGenero = s.nextLine();
+		
+		Genero generoNovo = new Genero(nomeNovoGenero, descricaoNovoGenero);
+		listaGenero.add(generoNovo);
+		System.out.println("Gênero cadastro com sucesso!");
+		
+		
+		return generoNovo;
+	}
+	
+	
+}

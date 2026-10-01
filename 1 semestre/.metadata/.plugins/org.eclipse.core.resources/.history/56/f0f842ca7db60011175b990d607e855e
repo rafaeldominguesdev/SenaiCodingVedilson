@@ -1,0 +1,41 @@
+package prjLivrariaVetor;
+ class Livros {
+	public static void main(String[] args) {
+		String[][] armario = {
+				{"Harry Potter","Senhor dos aneis"},
+				{"Jogos Varazes","Capitães da Areia"},
+				{"Percy Jackson", "Nárnia"}
+							
+				
+		};
+		
+		System.out.println(armario[1][1]);
+		
+		String[][] livreiro = new String[4][10];
+		livreiro[0][0] = "Meu pé de laranja lima";
+		livreiro[0][1] = "Marley e eu";
+		livreiro[0][2] = "Rainha vermelha";
+		livreiro[0][3] = "Manual do assinato para boas garotas";
+		livreiro[1][0] = "Analisando minhas 70 melhores partidas Bob Fisher";
+		livreiro[1][1] = "Crepúsculo";
+		livreiro[1][2] = "Doiário de um banana";
+		livreiro[2][0] = "Verity";
+		livreiro[2][1] = "A hora da estrela";
+		livreiro[3][9] = "Álbum da Copa 2026";		
+		
+		System.out.println(livreiro[3][0]);
+		
+		/* String nomeLivro = "Harry Potter";
+		int volume = 0;
+	
+	for(int i = 0; i < 350; i++) {	
+		volume++;
+		livros[1] = nomeLivro +" "+ volume;
+		System.out.println(livros [i]);		
+	}
+	*/
+	
+ }
+	
+}
+

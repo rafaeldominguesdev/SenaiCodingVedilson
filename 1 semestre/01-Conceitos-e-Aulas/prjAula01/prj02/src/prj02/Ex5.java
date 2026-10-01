@@ -1,0 +1,29 @@
+package prj02;
+
+import java.util.Scanner;
+
+public class Ex5 {
+	public static void main(String[] args) {
+		//Instanciação do objeto ler da classe Scanner
+		Scanner ler = new Scanner(System.in);
+		
+		//Declaração das variáveis do tipo decimal
+		double base, expoente, resultado;
+		
+		//Entrada de dados
+		System.out.print("Digite a base: ");
+		base = ler.nextDouble();
+		System.out.print("Digite o expoente: ");
+		expoente = ler.nextDouble();
+		
+		//Processamento
+		resultado = Math.pow(base, expoente);
+
+
+		//Saída de Dados
+		System.out.print("O Resultado da potenciação é " + resultado);
+		
+		ler.close();
+	}
+
+}

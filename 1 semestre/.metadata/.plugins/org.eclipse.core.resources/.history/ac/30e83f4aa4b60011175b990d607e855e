@@ -1,0 +1,79 @@
+package prjCineMatch.Classes;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class Usuario {
+	
+	
+
+		//Atributos
+		private String nome;
+		private String email;
+		private List<Filme> listaFilmes;
+		
+		//Construtore
+		public Usuario(String nomeUsuario, String email, List<Filme> listaFilmes) {
+			super();
+			this.nomeUsuario = nomeUsuario;
+			this.email = email;
+			this.listaFilmes= listaFilmes;
+			
+			this.listaFilmes = new ArrayList<>();
+	}		
+		//Getter & Setters
+			
+			public String getNome() {
+				return nome;
+			}
+			public void setNome(String nome) {
+				this.nome = nome;
+			}
+			public String getEmail() {
+				return email;
+			}
+			public void setEmail(String email) {
+				this.email = email;
+			}
+			public List<Filme> getListaFilmes() {
+				return listaFilmes;
+			}
+			
+			public void listarFilme(Filme filme) {
+				this.listaFilmes.add(filme);
+			}
+			
+
+		
+		public void deslistarFilme(String titulo) {
+			for (int i = 0; i < this.listaFilmes.size(); i ++) {
+				Filme livroExcluir = this.listaFilmes.get(i);
+				
+				if(livroExcluir.getTitulo().equals(titulo));{
+					this.listaFilmes.remove(i);
+				}			
+			}
+			
+			
+		}
+
+		public void exibirFilmes() {
+			System.out.println("Favoritos de " + this.nome +": " 
+								+ this.listaFilmes.size());
+			if (this.listaFilmes.isEmpty()) {
+				System.out.println("Lista vazia");
+				return;	
+			}
+			
+			for (int i = 0; i < this.listaFilmes.size(); i++) {
+				  System.out.println(this.listaFilmes.get(i));
+			}
+			
+		}
+		
+		
+	
+	
+
+}

@@ -1,0 +1,91 @@
+package Sistema;
+
+import java.util.Scanner;
+
+import prjCineMatch.Classes.Filme;
+import prjCineMatch.Classes.Genero;
+import prjCineMatch.Classes.Usuario;
+
+public class Aplicacao {
+	private static final String genero = null;
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		
+		System.out.println("Sistema do CineMatch");
+		System.out.println("Digite seu nome : ");
+		String nome = s.nextLine();
+		
+		System.out.println("Digite seu e-mail : ");
+		String email = s.nextLine();
+		
+		Usuario usuario = new Usuario(nome, email, null);
+		
+		int opcao = 0;
+		
+		while(opcao !=4) {
+			System.out.println("--------------------------------");
+			System.out.println("------------- MENU -------------");
+			System.out.println("1. Adicionar filme a lista");
+			System.out.println("2. Ver lista de filmes ");
+			System.out.println("3. Remover filme da lista ");
+			System.out.println("4. Sair");
+			System.out.println("Escolha uma opcão: ");
+			opcao = s.nextInt();
+			s.nextLine();
+			
+			
+			switch(opcao) {
+			case 1 :
+				System.out.println("\nTítulo do filme: ");
+				String tituloLivro = s.nextLine();
+				
+				System.out.println("Duração: ");
+				String autor = s.nextLine();
+				
+				System.out.println("Ano publicação: ");
+				int ano = s.nextInt();
+				s.nextLine();
+				
+				System.out.println("Genero do Filme :");
+				String genero = s.nextLine();
+			
+				System.out.println("Descricao do filme ");
+				String descricao = s.nextLine();
+								
+				Filme novoFilme = new Filme(tituloLivro, autor, ano, genero);
+				usuario.listarFilme(novoFilme);
+				
+
+				
+				break;
+				
+			case 2 :
+				usuario.exibirFilmes();
+				break;
+				
+			case 3 :
+				System.out.println("\nDigite o título do filme a remover: ");
+				String tituloRemover = s.nextLine();
+				usuario.deslistarFilme(tituloRemover);
+				break;
+				
+			case 4 :
+				System.out.println("\nSistema encerrado.");
+				opcao = 4;
+				break;
+				
+			default : 
+				System.out.println("Opção inválida!");
+				break;
+			
+			
+			
+			
+			}
+		}
+		
+		s.close();
+	}
+
+}

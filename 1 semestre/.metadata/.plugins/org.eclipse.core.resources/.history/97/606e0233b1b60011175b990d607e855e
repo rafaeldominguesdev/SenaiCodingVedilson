@@ -1,0 +1,39 @@
+package prjCineMatch.Classes;
+
+public class Genero {
+	//Atriutos
+	
+	private Genero generoFilme;
+	private String descricaoFilme;
+	
+
+	public Genero(String generoFilme2, String descricaoFilme2) {
+		// TODO Auto-generated constructor stub
+	}
+
+	//Construtores
+	public void genero() {}
+	
+	public void genero(Genero generoFilme, String descricaoFilme) {
+		this.generoFilme = generoFilme;
+		this.descricaoFilme = descricaoFilme;
+	}
+
+	//Getters & Setters
+	public Genero getGeneroFilme() {
+		return generoFilme;
+	}
+
+	public void setGeneroFilme(Genero generoFilme) {
+		this.generoFilme = generoFilme;
+	}
+
+	public String getDescricaoFilme() {
+		return descricaoFilme;
+	}
+
+	public void setDescricaoFilme(String descricaoFilme) {
+		this.descricaoFilme = descricaoFilme;
+	}
+	
+}

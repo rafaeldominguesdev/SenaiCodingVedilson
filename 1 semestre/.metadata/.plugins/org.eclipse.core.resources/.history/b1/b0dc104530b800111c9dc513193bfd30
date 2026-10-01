@@ -1,0 +1,30 @@
+package prjCineMatchCorreto.Classes;
+
+public class Servico {
+	
+	public void exibirMenu() {
+		System.out.println("      CINEMATCH");
+		System.out.println("=======================");
+		System.out.println("1. Adicionar filme");
+		System.out.println("2. Excluir filme");
+		System.out.println("3. Listar filme");
+		System.out.println("0. Sair");
+		System.out.println("========================");
+		System.out.println("Escolha a opção: ");
+	}
+	
+	public Genero buscarGeneroPorNome(List<Genero> generos, String nome) {
+		for(int i = 0; i < generos.size(); i++) {
+			
+			Genero g = generos.get(i);
+			
+			if (g.getNome().equals(nome)) {
+				return g;
+				}
+			}
+			
+
+	}
+	
+	
+}

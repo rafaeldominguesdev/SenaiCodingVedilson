@@ -1,0 +1,21 @@
+package exemplo;
+
+import java.util.Scanner;
+
+public class ExDesvioSimples {
+	public static void main(String[] args) {
+		Scanner ler= new Scanner(System.in);
+		
+		int idade;
+		
+		System.out.print("Digite a sua idade:");
+		idade= ler.nextInt();
+		
+		if ( idade > 18) {
+			System.out.print("Você é maior de idade.");
+		}
+		
+		ler.close();
+	
+	}
+}

@@ -1,0 +1,22 @@
+package Sistema;
+
+import prjListaLivro.Classes.Livro;
+import prjListaLivro.Classes.Usuario;
+
+public class aplicacao {
+	public static void main(String[] args) {
+
+		Livro l1 = new Livro("O Pequeno príncipe", "Antoine", 1943);
+		Livro l2 = new Livro("Duna", "Frank Herbert", 1965);
+		Livro l3 = new Livro("Duna1", "Frank Herbert2", 1949);
+
+		Usuario ana = new Usuario("Ana Beatriz", "ana@gmail.com");
+
+		ana.favoritarLivro(l1);
+		ana.favoritarLivro(l3);
+
+		ana.desfavoritarLivro("1984");
+
+		ana.exibirFavoritos();
+	}
+}   

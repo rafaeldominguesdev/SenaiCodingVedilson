@@ -1,0 +1,19 @@
+1787679550290	Delete element
+1787679554350	Delete element
+1787679578652	Delete element
+1787679848409	Encapsulate field 'nomeUsuario, ...'
+1787680469302	Encapsulate field 'email, ...'
+1787680471922	Encapsulate field 'minhaPlayList, ...'
+1787681213461	Encapsulate field 'tituloDaPlayList, ...'
+1787681216918	Encapsulate field 'dataDeCriacao, ...'
+1787681219835	Encapsulate field 'conteudo, ...'
+1787681700740	Encapsulate field 'titulo, ...'
+1787681708032	Encapsulate field 'duracaoEmSegundos, ...'
+1787681710981	Encapsulate field 'anoDeLancamento, ...'
+1787681983192	Encapsulate field 'tituloDaMidia, ...'
+1787682098034	Copy package
+1787682102972	Delete element
+1787682176502	Encapsulate field 'nomeDoConvidado, ...'
+1787682179706	Encapsulate field 'nomeDoPrograma, ...'
+1787682530276	Encapsulate field 'nomeBandaOuArtista, ...'
+1787682533397	Encapsulate field 'album, ...'

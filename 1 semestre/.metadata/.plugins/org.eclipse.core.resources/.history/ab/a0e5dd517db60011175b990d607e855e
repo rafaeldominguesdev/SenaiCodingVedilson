@@ -1,0 +1,22 @@
+package prjLivrariaVetor;
+ class Livros {
+	public static void main(String[] args) {
+		String[] livros = new String[7];
+		String nomeLivro = "Harry Potter";
+		int volume = 0;
+
+	
+	
+	for(int i = 0; i < 350; i++) {
+		
+		volume++;
+		livros[1] = nomeLivro +" "+ volume;
+		System.out.println(livros [i]);
+		
+	}
+	
+	
+ }
+	
+}
+
