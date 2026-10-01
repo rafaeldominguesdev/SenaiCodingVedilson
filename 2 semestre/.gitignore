@@ -1,2 +1,15 @@
 bin/
 *.class
+.vscode/
+.gitignore
+.project
+.classpath
+.settings/
+bin/
+out/
+temp/
+*.tmp
+
+target/
+
+.mvn/
