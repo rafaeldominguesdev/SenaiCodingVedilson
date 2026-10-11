@@ -10,18 +10,16 @@
         body{
             margin-left: 20%;
             margin-right: 20%;
-
-            
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
-        .foto-curriculo{
-            width: 10%;
+        /* foto redonda com borda vermelha, do lado direito */
+        #foto-curriculo{
+            width: 20%;
             border-radius: 50%;
             border: 3px solid red;
             background-color: red;
             float: right;
-        
-
         }
 
         h1{
@@ -32,30 +30,76 @@
             font-family: 'Times New Roman', Times, serif;
             font-size: 40px;
         }
-    
+
+        h2{
+            color: red;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 28px;
+            text-shadow: 2px 2px 1px black;
+        }
+
+        hr{
+            border: 2px solid black;
+        }
+
+        .destaque{
+            color: red;
+        }
+
     </style>
 
 </head>
 <body>
-    <h1>MEMPHIS DEPAY</h1> 
-    <img id="foto-curriculo" src="./img/memphis.webp" alt="foto-curriculo">
+    <h1>MEMPHIS DEPAY</h1>
+    <img id="foto-curriculo" src="./img/memphis.webp" alt="Foto do Memphis Depay">
 
+    <h2>Dados Pessoais</h2>
     <p id="texto-memphis">
-        Memphis depay atual jogador do corinthians de futebol desde o ano de 2012, nascido no dia 13 de fevereiro de 1994
-        
-    </p>
-    <hr>
-    <p id="Clubes-memphis">
-        Clubes que ja passou 
-        PSV (2011-2015)
-        Manchester United (2015-2016)
-        Lyon (2016-2021)
-        Barcelona (2021-2022)
-        Atlético de Madrid (2022-2024)
-        Corinthians (2024-2026)
+        <b>Nome:</b> Memphis Depay <br>
+        <b>Data de nascimento:</b> 13 de fevereiro de 1994 <br>
+        <b>Nacionalidade:</b> Holandês <br>
+        <b>Posição:</b> Atacante <br>
+        <b>Clube atual:</b> <b class="destaque">Corinthians</b>
     </p>
     <hr>
 
-    
+    <h2>Resumo</h2>
+    <p>
+        Atacante habilidoso, rápido e com ótima finalização. Começou a carreira no PSV, da Holanda,
+        e jogou em grandes clubes da Europa antes de chegar ao <b>Corinthians</b> em 2024.
+        É também um dos principais jogadores da <b>Seleção Holandesa</b>.
+    </p>
+    <hr>
+
+    <h2>Clubes que já passou</h2>
+    <ul id="Clubes-memphis">
+        <li>PSV (2011-2015)</li>
+        <li>Manchester United (2015-2016)</li>
+        <li>Lyon (2016-2021)</li>
+        <li>Barcelona (2021-2022)</li>
+        <li>Atlético de Madrid (2022-2024)</li>
+        <li>Corinthians (2024-2026)</li>
+    </ul>
+    <hr>
+
+    <h2>Principais Títulos</h2>
+    <ul>
+        <li>Campeonato Holandês - PSV (2014/2015)</li>
+        <li>Copa da Inglaterra - Manchester United (2015/2016)</li>
+        <li>Campeonato Paulista - Corinthians (2025)</li>
+        <li>Copa do Brasil - Corinthians (2025)</li>
+    </ul>
+    <hr>
+
+    <h2>Habilidades</h2>
+    <ol>
+        <li>Finalização de fora da área</li>
+        <li>Cobrança de falta</li>
+        <li>Drible</li>
+        <li>Velocidade</li>
+    </ol>
+    <hr>
+
+
 </body>
 </html>
